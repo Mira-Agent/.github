@@ -310,6 +310,7 @@ Mira supports chaining specialized agents for multi-step workflows.
 
 | Resource | Link |
 |----------|------|
+| Website | [mira.tg](https://mira.tg/) |
 | Telegram | [t.me/mira](https://t.me/mira) |
 | Documentation | [wiki.mira.tg](https://wiki.mira.tg) |
 | Issues | [GitHub Issues](https://github.com/DariaYakovleva/mira-wiki/issues) |
